@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520925663 source:/home/mohab/Documents/OSthreads/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<pthread.h>
+	<sys/time.h>
+
